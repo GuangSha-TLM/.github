@@ -8,5 +8,5 @@
 Developers interested in contributing should read the [Code of Conduct](./CODE_OF_CONDUCT.md) and the [Contributing Guide](./CONTRIBUTING.md).
 
 Thanks to everyone who has already contributed to OnuUI!
-
-<a href="https://github.com/onu-ui/onu-ui/graphs/contributors"><img src="https://contributors.nn.ci/api?repo=onu-ui/onu-ui" /></a>
+https://github.com/GuangSha-TLM/ZuiOJ/graphs/contributors
+<a href="https://github.com/GuangSha-TLM/ZuiOJ/graphs/contributors"><img src="https://contributors.nn.ci/api?repo=/GuangSha-TLM/ZuiOJ" /></a>
