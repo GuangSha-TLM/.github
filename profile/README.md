@@ -9,4 +9,4 @@
 
 
 ## 社团系统贡献名单
-<a href="https://github.com/GuangSha-TLM/ZuiOJ/graphs/contributors"><img src="https://contributors.nn.ci/api?repo=/GuangSha-TLM/Community-system" /></a>
+<a href="https://github.com/GuangSha-TLM/ZuiOJ/graphs/contributors"><img src="https://contributors.nn.ci/api?repo=GuangSha-TLM/Community-system" /></a>
