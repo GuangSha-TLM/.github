@@ -4,8 +4,5 @@
 
 //www.gsxy.cn/lib/template/scheme/images/gs_xy_logo.png
 
-## OJ项目贡献者名单
-
-<a href="https://github.com/GuangSha-TLM/ZuiOJ/graphs/contributors">
-[  <img src="[https://contributors.nn.ci/api?repo=/GuangSha-TLM/ZuiOJ](https://contrib.nn.ci/api?repo=GuangSha-TLM/ZuiOJ)"/>
-</a>](https://contrib.nn.ci/api?repo=GuangSha-TLM/ZuiOJ)https://contrib.nn.ci/api?repo=GuangSha-TLM/ZuiOJ
+## OJ系统贡献名单
+<a href="https://github.com/GuangSha-TLM/ZuiOJ/graphs/contributors"><img src="https://contributors.nn.ci/api?repo=GuangSha-TLM/ZuiOJ" /></a>
