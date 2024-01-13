@@ -10,3 +10,6 @@
 
 ## 社团系统贡献名单
 <a href="https://github.com/GuangSha-TLM/ZuiOJ/graphs/contributors"><img src="https://contributors.nn.ci/api?repo=GuangSha-TLM/Community-system" /></a>
+
+## 通过Excel随机抽取人数项目贡献者名单
+<a href="https://github.com/GuangSha-TLM/ZuiOJ/graphs/contributors"><img src="https://contributors.nn.ci/api?repo=GuangSha-TLM/PersonnelExtractionInExcel" /></a>
